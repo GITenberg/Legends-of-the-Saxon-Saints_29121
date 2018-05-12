@@ -1,0 +1,30 @@
+_repo: Legends-of-the-Saxon-Saints_29121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Vere, Aubrey
+    aliases:
+    - Hunt, Aubrey Thomas De Vere
+    - Vere, Aubrey De
+    birthdate: 1814
+    deathdate: 1902
+    gutenberg_agent_id: '2360'
+    url: http://www.gutenberg.org/2009/agents/2360
+description: ''
+gutenberg_issued: '2009-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Legends -- Great Britain'
+- !lcsh 'Saints -- Great Britain'
+title: Legends of the Saxon Saints
+url: http://www.gutenberg.org/ebooks/29121
